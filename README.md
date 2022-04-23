@@ -5,7 +5,9 @@ Simple Python library allowing you to use the Hypixel API from your terminal
 # Installation and Importing
 To install the PyPixel library, use:
 
-`pip install MCPyPixelAPI`
+```
+pip install MCPyPixelAPI
+```
 
 Then to import it you can use:
 
